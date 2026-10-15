@@ -1,0 +1,58 @@
+{
+  "model_version": "1.0.0",
+  "trained_at": "2026-10-15T07:19:32+00:00",
+  "algorithm": "HistGradientBoostingRegressor (dalam sklearn Pipeline)",
+  "target": "log1p(Current_Price USD); output API sudah di-expm1 ke USD",
+  "current_year": 2023,
+  "features_numeric": [
+    "Year",
+    "Age",
+    "Set_Variant",
+    "Pieces",
+    "Minifigures",
+    "Owned",
+    "Rating",
+    "Num_Instructions",
+    "USD_MSRP",
+    "MSRP_per_Piece",
+    "Total_Quantity",
+    "Has_Minifig",
+    "Has_Rating"
+  ],
+  "features_categorical": [
+    "Theme",
+    "Theme_Group",
+    "Category",
+    "Packaging",
+    "Availability"
+  ],
+  "best_params": {
+    "model__min_samples_leaf": 10,
+    "model__max_iter": 400,
+    "model__max_depth": null,
+    "model__learning_rate": 0.03,
+    "model__l2_regularization": 1.0
+  },
+  "n_train": 4353,
+  "n_test": 1089,
+  "metrics_test": {
+    "rmse_log": 0.4810371868119063,
+    "r2_log": 0.8513554470088317,
+    "mae_usd": 37.58713003680189,
+    "rmse_usd": 161.87038203496283,
+    "baseline_rmse_log": 1.2496339951316577
+  },
+  "residual_q10": -0.541149037589526,
+  "residual_q90": 0.5401485338326217,
+  "runtime": {
+    "python": "3.13.5",
+    "scikit-learn": "1.8.0",
+    "pandas": "3.0.2",
+    "numpy": "2.4.4"
+  },
+  "limitations": [
+    "Hanya set yang punya Current_Price saat training",
+    "Set dengan tema/kategori baru ditangani sebagai 'infrequent'",
+    "Interval 80% bersifat empiris, bukan jaminan"
+  ]
+}
