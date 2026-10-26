@@ -1,6 +1,6 @@
 {
   "model_version": "1.0.0",
-  "trained_at": "2026-10-15T07:19:32+00:00",
+  "trained_at": "2026-10-26T06:28:06+00:00",
   "algorithm": "HistGradientBoostingRegressor (dalam sklearn Pipeline)",
   "target": "log1p(Current_Price USD); output API sudah di-expm1 ke USD",
   "current_year": 2023,
