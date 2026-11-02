@@ -1,0 +1,964 @@
+prompt,labels
+best way to setup feature store using kubeflow?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+fix my loop postgres,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+I have a 7B parameter model. I need to deploy it on gcp using vertex ai. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+How do I implement debounce in react using react Please show me an example,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My golang app keeps crashing in prod with OOM. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+we are migrating from a monolith to microservices. wats the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+ansible script for deploy eks cluster,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+compare vector database performance,"[""analysis"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+I have a 7B parameter model. I need to deploy it on gcp using ray serve. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+How do I make a python request using mongodb? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+kubernetes OOM help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"I'm trying to implement debounce in react in terraform but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+best way to serve model using kubeflow?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+helm script for write gitlab ci pipeline,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+fix my loop redis,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+how do i reverse binary tree using tensorflow? please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+how do i write a go script to connect to db and also what is the best way to deploy it to aws without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+pytorch cors issue help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+We need to implement a disaster recovery strategy across multi-region AWS. Write the cloudformation configuration to achieve active-passive failover with an RPO of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+"I'm trying to connect to db in golang but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+how do i write a react script to connect to db and also what is the best way to deploy it to k8s without getting memory issues,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+design a scalable url shortener using redis and aws,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+how do i connect to db using tensorflow? pls show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My tensorflow app keeps crashing in prod with NullPointerException. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+design a scalable chat app using go and k8s,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+"i'm trying to reverse binary tree in aws but this isn't working:
+```
+def func():
+    pass
+```
+can you rewrite it","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+parse json node,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+We need to implement a disaster recovery strategy across multi-region AWS. Write the terraform configuration to achieve active-passive failover with an RPO of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+compare paxos vs raft,"[""research"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+"my node app keeps crashing in prod with oom. here are the logs:
+```
+error: unexpected token at line 42
+```
+what could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+how do i write a react script to connect to db and also what is the best way to deploy it to aws without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+How do I read file async using redis? pl show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+helm script for write gitlab ci pipeline,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices wat is the best way to handle distributed transactions across postgres instances using the saga pattern need pros/cons and potential failure modes,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+fix my loop react,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+update state terraform,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+python 502 bad gateway help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+design a scalable e-commerce site using aws and node,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+"pls provide a comprehensive summary of the latest academic papers regarding paxos vs raft. include key methodologies, limitations, and future work. structure it clearly.","[""analysis"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+compare paxos vs raft,"[""research"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+I have a 7B parameter model. I need to deploy it on aws using sagemaker. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+"i'm trying to reverse binary tree in postgres but this isn't working:
+```
+def func():
+    pass
+```
+can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My mongodb app keeps crashing in prod with NullPointerException Here are the logs:
+```
+bug: unexpected token at line 42
+```
+What could be causing this","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.
+```
+// data
+```","[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+"my k8s app keeps crashing in prod with segfault. here are the logs:
+```
+crash: unexpected token at line 42
+```
+what could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+how do i write a react script to connect to db and also what is the best way to deploy it to aws without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+compare vector database performance,"[""research"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+i have a 7b parameter model. i need to deploy it on gcp using sagemaker. give me a step-by-step mlops architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+How do I read file async using mongodb? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+How do I implement debounce in react using nextjs? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My pytorch app keeps crashing in prod with 502 bad gateway. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+we are migrating from a monolith to microservices what is the best way to handle distributed transactions across postgres instances using the saga pattern need pros/cons and potential failure modes,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+design a scalable url shortener using nextjs and python,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+I have a 7B parameter model. I need to deploy it on gcp using sagemaker. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+how do i write a go script to connect to db and also what is the best way to deploy it to k8s without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+how do i write a go script to connect to db and also what is the best way to deploy it to k8s without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+I have a 7B parameter model. I need to deploy it on gcp using vertex ai. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+helm script for deploy eks cluster,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My nextjs app keeps crashing in prod with timeout. Here are the logs:
+```
+borked: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+I have a 7B parameter model. I need to deploy it on gcp using kubeflow. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+parse json k8s,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+"My azure app keeps crashing in prod with OOM. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"Please provide a comprehensive summary of the latest academic papers regarding serverless cold starts. Include key methodologies, limitations, and future work. Structure it clearly.","[""research"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+design a scalable chat app using gcp and mongodb,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+"My mongodb app keeps crashing in prod with 502 bad gateway. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"My airflow app keeps crashing in prod with segfault. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+design a scalable chat app using pytorch and python,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+best way to deploy llm using vllm?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+How do I write a regex to parse emails using node? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My airflow app keeps crashing in prod with OOM Here are the logs:
+```
+err: unexpected token at line 42
+```
+What could be causing this","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+compare vector database performance,"[""analysis"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+"Please provide a comprehensive summary of the latest academic papers regarding paxos vs raft. Include key methodologies, limitations, and future work. Structure it clearly.","[""analysis"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+design a scalable e-commerce site using k8s and c++,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+"My react app keeps crashing in prod with segfault. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+we are migrating from a monolith to microservices what is the best way to handle distributed transactions across postgres instances using the saga pattern need pros/cons and potential failure modes,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+mongodb nullpointerexception help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+I have a 7B parameter model. I need to deploy it on gcp using mlflow. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+parse json azure,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+center div snowflake,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+compare transformer variants,"[""analysis"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+how do i write a python script to connect to db and also what is the best way to deploy it to k8s without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+we are migrating from a monolith to microservices wat is the best way to handle distributed transactions across postgres instances using the saga pattern need pros/cons and potential failure modes,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+design a scalable url shortener using postgres and tensorflow,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+"My postgres app keeps crashing in prod with OOM Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"i'm trying to make a python request in react but this isn't working:
+```
+def func():
+    pass
+```
+can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+how do i write a python script to connect to db and also what is the best way to deploy it to k8s without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+"how do i implement debounce in react using nextjs please show me an example
+```
+// data
+```","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+how do i write a react script to connect to db and also what is the best way to deploy it to aws without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+We need to implement a disaster recovery strategy across multi-region Azure. Write the docker-compose configuration to achieve active-passive failover with an RPO of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+update state snowflake,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+design a scalable e-commerce site using python and rust,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+"I'm trying to read file async in gcp but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+update state redis,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+"My gcp app keeps crashing in prod with cors issue. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+How do I make a python request using kubernetes? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+terraform script for deploy eks cluster,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+parse json k8s,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+compare serverless cold starts,"[""analysis"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+i have a 7b parameter model. i need to deploy it on gcp using ray serve. give me a step-by-step mlops architectur including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+I have a 7B parameter model. I need to deploy it on gcp using kubeflow. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+fix my loop node,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+"I'm trying to make a python request in rust but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"I'm trying to read file async in node but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+i have a 7b parameter model. i need to deploy it on gcp using mlflow. give me a step-by-step mlops architectur including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+design a scalable e-commerce site using python and kafka,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+"we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.
+```
+// data
+```","[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+"I'm trying to connect to db in tensorflow but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"Please provide a comprehensive summary of the latest academic papers regarding serverless cold starts. Include key methodologies, limitations, and future work. Structure it clearly.","[""research"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+how do i write a react script to connect to db and also what is the best way to deploy it to k8s without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+How do I implement debounce in react using golang? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My snowflake app keeps crashing in prod with 502 bad gateway. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+compare vector database performance,"[""research"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+We need to implement a disaster recovery strategy across multi-region AWS. Write the helm configuration to achieve active-passive failover with an RPO of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+center div airflow,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+best way to serve model using sagemaker?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+How do I reverse binary tree using gcp? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+how do i write a python script to connect to db and also what is the best way to deploy it to k8s without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+helm script for deploy eks cluster,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My terraform app keeps crashing in prod with 502 bad gateway. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+how do i write a react script to connect to db and also what is the best way to deploy it to k8s without getting memory crashs,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+compare transformer variants,"[""research"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+"my gcp app keeps crashing in prod with nullpointerexception. here are the logs:
+```
+error: unexpected token at line 42
+```
+what could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+compare vector database performance,"[""research"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+I have a 7B parameter model. I need to deploy it on aws using sagemaker. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+"My node app keeps crashing in prod with NullPointerException. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+We need to implement a disaster recovery strategy across multi-region AWS. Write the docker-compose configuration to achieve active-passive failover with an RPO of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+postgres timeout help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+best way to serve model using vertex ai?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+design a scalable e-commerce site using tensorflow and k8s,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+airflow NullPointerException help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My postgres app keeps crashing in prod with NullPointerException. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"i'm trying to reverse binary tree in c++ but this isn't working:
+```
+def func():
+    pass
+```
+can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+how do i write a python script to connect to db and also what is the best way to deploy it to aws without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+"My terraform app keeps crashing in prod with 502 bad gateway. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+how do i write a go script to connect to db and also what is the best way to deploy it to k8s without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+cloudformation script for configure load balancer,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+i have a 7b parameter model. i need to deploy it on gcp using vllm. give me a step-by-step mlops arch including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+cloudformation script for deploy eks cluster,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"i'm trying to implement debounce in react in airflow but this isn't working:
+```
+def func():
+    pass
+```
+can you rewrite it","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My redis app keeps crashing in prod with cors error. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"my gcp app keeps crashing in prod with oom here are the logs:
+```
+crash: unexpected token at line 42
+```
+what could be causing this","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+how do i write a go script to connect to db and also what is the best way to deploy it to k8s without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+"My c++ app keeps crashing in prod with cors borked. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+docker OOM help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"I'm trying to implement debounce in react in kubernetes but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"I'm trying to write a regex to parse emails in node but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+I have a 7B parameter model. I need to deploy it on gcp using vertex ai. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+I have a 7B parameter model. I need to deploy it on aws using mlflow. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+"My node app keeps crashing in prod with OOM. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+pytorch nullpointerexception help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+How do I connect to db using nextjs? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"my azure app keeps crashing in prod with segfault. here are the logs:
+```
+error: unexpected token at line 42
+```
+what could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"please provide a comprehensive summary of the latest academic papers regarding paxos vs raft. include key methodologies, limitations, and future work. structure it clearly.","[""analysis"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+"i'm trying to write a regex to parse emails in tensorflow but this isn't working:
+```
+def func():
+    pass
+```
+can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+react segfault help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+cloudformation script for setup vpc,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"I have a 7B parameter model. I need to deploy it on aws using vertex ai. Give me a step-by-step MLOps architecture including monitoring and continuous training.
+```
+// data
+```","[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+how do i write a python script to connect to db and also what is the best way to deploy it to k8s without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+how do i write a react script to connect to db and also wats the best way to deploy it to aws without getting memory borkeds,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+design a scalable url shortener using docker and postgres,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+We need to implement a disaster recovery strategy across multi-region AWS. Write the docker-compose configuration to achieve active-passive failover with an RPO of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+mongodb 502 bad gateway help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+fix my loop redis,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+"Please provide a comprehensive summary of the latest academic papers regarding transformer variants. Include key methodologies, limitations, and future work. Structure it clearly.","[""analysis"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+"My terraform app keeps crashing in prod with segfault. Here are the logs:
+```
+issue: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+how do i read file async using python plz show me an example,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+i have a 7b parameter model i need to deploy it on gcp using kubeflow give me a step-by-step mlops architecture including monitoring and continuous training,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+How do I write a regex to parse emails using tensorflow? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+parse json kafka,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+how do i write a go script to connect to db and also what is the best way to deploy it to aws without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+terraform script for deploy eks cluster,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+best way to serve model using ray serve?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+How do I write a regex to parse emails using nextjs? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+gcp 502 bad gateway help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+"Please provide a comprehensive summary of the latest academic papers regarding RAG vs fine-tuning. Include key methodologies, limitations, and future work. Structure it clearly.","[""analysis"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+how do i write a react script to connect to db and also what is the best way to deploy it to k8s without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+update state gcp,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+fix my loop react,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+how do i write a go script to connect to db and also what is the best way to deploy it to aws without getting memory errs,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+I have a 7B parameter model. I need to deploy it on aws using vllm. Give me a step-by-step MLOps architectur including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+aws NullPointerException help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+how do i write a react script to connect to db and also what's the best way to deploy it to k8s without getting memory crashs,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+"my redis app keeps crashing in prod with oom here are the logs:
+```
+err: unexpected token at line 42
+```
+what could be causing this","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+design a scalable chat app using snowflake and mongodb,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+best way to setup feature store using vertex ai?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+i have a 7b parameter model i need to deploy it on gcp using sagemaker give me a step-by-step mlops architecture including monitoring and continuous training,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+best way to deploy llm using sagemaker?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My azure app keeps crashing in prod with 502 bad gateway. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"how do i write a react script to connect to db and also what is the best way to deploy it to k8s without getting memory errors
+```
+// data
+```","[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+nextjs nullpointerexception help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+We need to implement a disaster recovery strategy across multi-region AWS. Write the cloudformation configuration to achieve active-passive failover with an RPO of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+design a scalable chat app using snowflake and docker,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+postgres 502 bad gateway help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+airflow NullPointerException help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+I have a 7B parameter model. I need to deploy it on aws using vertex ai. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+parse json python,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+"I'm trying to implement debounce in react in kafka but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+design a scalable chat app using postgres and kubernetes,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+aws OOM help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+parse json kubernetes,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+terraform script for setup vpc,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+best way to setup feature store using kubeflow?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+design a scalable e-commerce site using docker and airflow,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+docker timeout help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+How do I read file async using kafka? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+redis NullPointerException help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+How do I make a python request using aws? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices what is the best way to handle distributed transactions across postgres instances using the saga pattern need pros/cons and potential failure modes,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+cloudformation script for configure load balancer,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+"I'm trying to reverse binary tree in golang but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My gcp app keeps crashing in prod with NullPointerException. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+We need to implement a disaster recovery strategy across multi-region Azure. Write the cloudformation configuration to achieve active-passive failover with an RPO of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+"I'm trying to write a regex to parse emails in docker but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+best way to model registry setup using vllm?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My kubernetes app keeps crashing in prod with cors err. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"best way to serve model using mlflow
+```
+// data
+```","[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"How do I sort array using pytorch? Please show me an example.
+```
+// data
+```","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"I'm trying to implement debounce in react in mongodb but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My go app keeps crashing in prod with segfault. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+How do I sort array using react? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we need to implement a disaster recovery strategy across multi-region aws. write the helm configuration to achieve active-passive failover with an rpo of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+how do i write a python script to connect to db and also what is the best way to deploy it to k8s without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+"My rust app keeps crashing in prod with 502 bad gateway. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+cloudformation script for configure load balancer,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+How do I sort array using airflow? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+best way to setup feature store using vertex ai?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+How do I write a regex to parse emails using airflow? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+update state snowflake,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+"My pytorch app keeps crashing in prod with cors bug. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+i have a 7b parameter model i need to deploy it on gcp using mlflow give me a step-by-step mlops architecture including monitoring and continuous training,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+"My rust app keeps crashing in prod with 502 bad gateway. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+mongodb timeout help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+c++ cors error help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+parse json kubernetes,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+how do i write a react script to connect to db and also what is the best way to deploy it to k8s without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+how do i connect to db using react? please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+design a scalable url shortener using golang and kubes,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+How do I implement debounce in react using gcp? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+c++ timeout help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+helm script for setup vpc,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+design a scalable chat app using nextjs and docker,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+"I'm trying to read file async in azure but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+design a scalable url shortener using go and react,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+"Please provide a comprehensive summary of the latest academic papers regarding paxos vs raft. Include key methodologies, limitations, and future work. Structure it clearly.","[""analysis"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+k8s 502 bad gateway help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"Please provide a comprehensive summary of the latest academic papers regarding vector database performance. Include key methodologies, limitations, and future work. Structure it clearly.","[""research"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+We need to implement a disaster recovery strategy across multi-region AWS. Write the helm configuration to achieve active-passive failover with an RPO of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+We need to implement a disaster recovery strategy across multi-region Azure. Write the ansible configuration to achieve active-passive failover with an RPO of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+we are migrating from a monolith to microservices. wats the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+best way to deploy llm using vllm?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+design a scalable chat app using mongodb and airflow,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+We need to implement a disaster recovery strategy across multi-region Azure. Write the helm configuration to achieve active-passive failover with an RPO of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+rust cors error help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+best way to automate training pipeline using sagemaker?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+helm script for write gitlab ci pipeline,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+azure cors error help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+how do i write a go script to connect to db and also what is the best way to deploy it to k8s without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+"Please provide a comprehensive summary of the latest academic papers regarding vector database performance. Include key methodologies, limitations, and future work. Structure it clearly.","[""analysis"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+design a scalable url shortener using kafka and node,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+"My snowflake app keeps crashing in prod with 502 bad gateway. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"i'm trying to write a regex to parse emails in airflow but this isn't working:
+```
+def func():
+    pass
+```
+can you rewrite it","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+design a scalable e-commerce site using go and rust,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+fix my loop terraform,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+"Please provide a comprehensive summary of the latest academic papers regarding transformer variants. Include key methodologies, limitations, and future work. Structure it clearly.","[""research"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+"we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.
+```
+// data
+```","[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+design a scalable e-commerce site using rust and mongodb,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+"my mongodb app keeps crashing in prod with 502 bad gateway here are the logs:
+```
+bug: unexpected token at line 42
+```
+what could be causing this","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"I'm trying to read file async in pytorch but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+How do I write a regex to parse emails using azure? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+how do i write a regex to parse emails using gcp pl show me an example,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+i have a 7b parameter model. i need to deploy it on aws using ray serve. give me a step-by-step mlops architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+"My snowflake app keeps crashing in prod with NullPointerException. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"Please provide a comprehensive summary of the latest academic papers regarding paxos vs raft. Include key methodologies, limitations, and future work. Structure it clearly.","[""research"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+snowflake timeout help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+design a scalable url shortener using mongodb and gcp,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+k8s OOM help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"I'm trying to connect to db in golang but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+how do i write a react script to connect to db and also what is the best way to deploy it to k8s without getting memory crashs,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+c++ 502 bad gateway help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+update state golang,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+We need to implement a disaster recovery strategy across multi-region Azure. Write the helm configuration to achieve active-passive failover with an RPO of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+how do i implement debounce in react using mongodb please show me an example,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+I have a 7B parameter model. I need to deploy it on gcp using kubeflow. Give me a step-by-step MLOps system design including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+how do i write a regex to parse emails using k8s please show me an example,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+helm script for deploy eks cluster,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+python timeout help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+best way to automate training pipeline using mlflow?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+I have a 7B parameter model. I need to deploy it on aws using vllm. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+"my airflow app keeps crashing in prod with segfault here are the logs:
+```
+borked: unexpected token at line 42
+```
+what could be causing this","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"My postgres app keeps crashing in prod with segfault. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+golang 502 bad gateway help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"my docker app keeps crashing in prod with oom here are the logs:
+```
+crash: unexpected token at line 42
+```
+what could be causing this","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+How do I reverse binary tree using go  show me an example,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+I have a 7B parameter model. I need to deploy it on aws using kubeflow. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+"my airflow app keeps crashing in prod with cors error. here are the logs:
+```
+error: unexpected token at line 42
+```
+what could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+how do i write a python script to connect to db and also what is the best way to deploy it to k8s without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+"My terraform app keeps crashing in prod with 502 bad gateway Here are the logs:
+```
+crash: unexpected token at line 42
+```
+What could be causing this","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+nextjs NullPointerException help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My redis app keeps crashing in prod with 502 bad gateway. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+we are migrating from a monolith to microservices. what's the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+how do i write a go script to connect to db and also what is the best way to deploy it to aws without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+"Please provide a comprehensive summary of the latest academic papers regarding RAG vs fine-tuning. Include key methodologies, limitations, and future work. Structure it clearly.","[""research"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+update state azure,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+how do i write a go script to connect to db and also what's the best way to deploy it to k8s without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+How do I read file async using snowflake? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+how do i write a go script to connect to db and also wat is the best way to deploy it to aws without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+terraform 502 bad gateway help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+compare RAG vs fine-tuning,"[""research"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+I have a 7B parameter model. I need to deploy it on gcp using vertex ai. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+"my gcp app keeps crashing in prod with oom. here are the logs:
+```
+issue: unexpected token at line 42
+```
+what could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+How do I implement debounce in react using aws? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+regex for ip go,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+How do I connect to db using react? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+compare serverless cold starts,"[""analysis"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+parse json golang,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+we are migrating from a monolith to microservices what is the best way to handle distributed transactions across mysql instances using the saga pattern need pros/cons and potential failure modes,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+how do i write a python script to connect to db and also what is the best way to deploy it to aws without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+regex for ip docker,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+"I'm trying to write a regex to parse emails in snowflake but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+gcp cors error help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices. wats the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+How do I reverse binary tree using postgres? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+how do i write a react script to connect to db and also what is the best way to deploy it to aws without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+"My python app keeps crashing in prod with OOM. Here are the logs:
+```
+issue: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"My node app keeps crashing in prod with NullPointerException. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+how do i write a python script to connect to db and also what is the best way to deploy it to k8s without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+"my pytorch app keeps crashing in prod with segfault. here are the logs:
+```
+error: unexpected token at line 42
+```
+what could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"I'm trying to implement debounce in react in c++ but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+i have a 7b parameter model. i need to deploy it on gcp using sagemaker. give me a step-by-step mlops architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+cloudformation script for setup vpc,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+redis cors err help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+"My airflow app keeps crashing in prod with OOM. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+I have a 7B parameter model. I need to deploy it on aws using sagemaker. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+update state python,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+"we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.
+```
+// data
+```","[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+"i'm trying to reverse binary tree in postgres but this isn't working:
+```
+def func():
+    pass
+```
+can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My mongodb app keeps crashing in prod with timeout. Here are the logs:
+```
+issue: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"I'm trying to reverse binary tree in k8s but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+How do I write a regex to parse emails using c++? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"I'm trying to sort array in docker but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"i'm trying to reverse binary tree in snowflake but this isn't working:
+```
+def func():
+    pass
+```
+can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My nextjs app keeps crashing in prod with cors error Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"My c++ app keeps crashing in prod with cors issue. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+how do i write a go script to connect to db and also what is the best way to deploy it to aws without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+regex for ip gcp,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+How do I make a python request using pytorch? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+center div rust,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+compare serverless cold starts,"[""research"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+design a scalable chat app using node and rust,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+"i'm trying to implement debounce in react in airflow but this isn't working:
+```
+def func():
+    pass
+```
+can you rewrite it","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My nextjs app keeps crashing in prod with OOM. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+best way to deploy llm using vertex ai?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+update state node,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+best way to model registry setup using kubeflow?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"Please provide a comprehensive summary of the latest academic papers regarding paxos vs raft. Include key methodologies, limitations, and future work. Structure it clearly.","[""analysis"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+cloudformation script for setup vpc,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+pytorch segfault help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+best way to model registry setup using vllm?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+compare vector database performance,"[""research"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+How do I make a python request using mongodb? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+how do i implement debounce in react using python? please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+best way to deploy llm using vllm?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+How do I reverse binary tree using react? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+how do i write a react script to connect to db and also what is the best way to deploy it to k8s without getting memory issues,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+best way to setup feature store using vllm?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+I have a 7B parameter model. I need to deploy it on gcp using kubeflow. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+How do I reverse binary tree using tensorflow? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+how do i write a python script to connect to db and also what is the best way to deploy it to aws without getting memory errs,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+how do i make a python request using azure?  show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"I'm trying to connect to db in azure but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"Please provide a comprehensive summary of the latest academic papers regarding serverless cold starts. Include key methodologies, limitations, and future work. Structure it clearly.","[""research"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+postgres segfault help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+terraform script for deploy eks cluster,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+I have a 7B parameter model. I need to deploy it on gcp using vertex ai. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+"i'm trying to write a regex to parse emails in golang but this isn't working:
+```
+def func():
+    pass
+```
+can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"design a scalable e-commerce site using aws and k8s
+```
+// data
+```","[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+"i'm trying to sort array in kubernetes but this isn't working:
+```
+def func():
+    pass
+```
+can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+helm script for configure load balancer,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+compare transformer variants,"[""analysis"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+how do i write a react script to connect to db and also what is the best way to deploy it to aws without getting memory errs,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+ansible script for setup vpc,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+ansible script for deploy eks cluster,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"Please provide a comprehensive summary of the latest academic papers regarding vector database performance. Include key methodologies, limitations, and future work. Structure it clearly.","[""analysis"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+how do i write a go script to connect to db and also what is the best way to deploy it to aws without getting memory bugs,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+"how do i reverse binary tree using terraform? pls show me an example.
+```
+// data
+```","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+azure oom help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My postgres app keeps crashing in prod with cors err. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"I'm trying to sort array in kafka but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+compare RAG vs fine-tuning,"[""analysis"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+best way to model registry setup using vertex ai?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+We need to implement a disaster recovery strategy across multi-region AWS. Write the ansible configuration to achieve active-passive failover with an RPO of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+compare RAG vs fine-tuning,"[""analysis"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+"I'm trying to sort array in kafka but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+ansible script for write gitlab ci pipeline,"[""infrastructure"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+how do i write a react script to connect to db and also what is the best way to deploy it to aws without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+"My terraform app keeps crashing in prod with NullPointerException. Here are the logs:
+```
+crash: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+We need to implement a disaster recovery strategy across multi-region Azure. Write the docker-compose config to achieve active-passive failover with an RPO of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+how do i reverse binary tree using mongodb? please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"I'm trying to implement debounce in react in react but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+best way to setup feature store using kubeflow?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+best way to serve model using mlflow?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across postgres instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+regex for ip k8s,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+I have a 7B parameter model I need to deploy it on aws using mlflow Give me a step-by-step MLOps architecture including monitoring and continuous training,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+how do i write a python script to connect to db and also what is the best way to deploy it to aws without getting memory crashs,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+golang segfault help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+I have a 7B parameter model. I need to deploy it on aws using vertex ai. Give me a step-by-step MLOps architecture including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+regex for ip c++,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+"I'm trying to sort array in airflow but this isn't working:
+```
+def func():
+    pass
+```
+Can you rewrite it?","[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My airflow app keeps crashing in prod with cors error. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+"design a scalable chat app using k8s and go
+```
+// data
+```","[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+compare RAG vs fine-tuning,"[""analysis"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+how do i write a react script to connect to db and also wat is the best way to deploy it to aws without getting memory errs,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+how do i write a python script to connect to db and also what is the best way to deploy it to k8s without getting memory errors,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+How do I read file async using node? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+design a scalable e-commerce site using airflow and rust,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+update state redis,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+compare serverless cold starts,"[""analysis"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+We need to implement a disaster recovery strategy across multi-region Azure. Write the terraform configuration to achieve active-passive failover with an RPO of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+gcp cors crash help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+How do I connect to db using airflow? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+design a scalable e-commerce site using snowflake and rust,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+terraform timeout help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+fix my loop redis,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+How do I make a python request using snowflake? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My node app keeps crashing in prod with cors error. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+We need to implement a disaster recovery strategy across multi-region Azure. Write the docker-compose configuration to achieve active-passive failover with an RPO of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+"my redis app keeps crashing in prod with timeout. here are the logs:
+```
+error: unexpected token at line 42
+```
+what could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+compare vector database performance,"[""analysis"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+fix my loop c++,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+best way to deploy llm using vertex ai?,"[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+compare vector database performance,"[""research"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+I have a 7B parameter model. I need to deploy it on aws using vllm. Give me a step-by-step MLOps architectur including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+postgres 502 bad gateway help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+I have a 7B parameter model. I need to deploy it on aws using mlflow. Give me a step-by-step MLOps arch including monitoring and continuous training.,"[""mlops"", ""architecture-heavy"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive""]"
+"My golang app keeps crashing in prod with cors error. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+compare transformer variants,"[""research"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+we are migrating from a monolith to microservices. what is the best way to handle distributed transactions across mysql instances using the saga pattern? need pros/cons and potential failure modes.,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+"my c++ app keeps crashing in prod with 502 bad gateway. here are the logs:
+```
+borked: unexpected token at line 42
+```
+what could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+regex for ip mongodb,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+parse json postgres,"[""coding"", ""short-output"", ""easy"", ""realtime"", ""reasoning-light""]"
+aws timeout help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+compare serverless cold starts,"[""analysis"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+We need to implement a disaster recovery strategy across multi-region AWS. Write the helm configuration to achieve active-passive failover with an RPO of 5 minutes.,"[""infrastructure"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+"Please provide a comprehensive summary of the latest academic papers regarding vector database performance. Include key methodologies, limitations, and future work. Structure it clearly.","[""analysis"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+"best way to setup feature store using vertex ai?
+```
+// data
+```","[""mlops"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"Please provide a comprehensive summary of the latest academic papers regarding transformer variants. Include key methodologies, limitations, and future work. Structure it clearly.","[""analysis"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+compare vector database performance,"[""research"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+"Please provide a comprehensive summary of the latest academic papers regarding serverless cold starts. Include key methodologies, limitations, and future work. Structure it clearly.","[""research"", ""long-output"", ""hard"", ""background"", ""premium"", ""reasoning-intensive""]"
+go NullPointerException help,"[""debugging"", ""short-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My redis app keeps crashing in prod with cors error. Here are the logs:
+```
+Error: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+design a scalable e-commerce site using snowflake and kafka,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+we are migrating from a monolith to microservices what is the best way to handle distributed transactions across postgres instances using the saga pattern need pros/cons and potential failure modes,"[""architecture"", ""long-output"", ""hard"", ""premium"", ""reasoning-intensive"", ""architecture-heavy""]"
+how do i write a go script to connect to db and also wat is the best way to deploy it to aws without getting memory errs,"[""debugging"", ""reasoning-intensive"", ""interactive"", ""hard"", ""medium-output"", ""balanced"", ""infrastructure"", ""coding""]"
+design a scalable e-commerce site using terraform and airflow,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"
+compare rag vs fine-tuning,"[""research"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+How do I implement debounce in react using node? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+compare serverless cold starts,"[""research"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate"", ""balanced""]"
+How do I implement debounce in react using python? Please show me an example.,"[""coding"", ""medium-output"", ""moderate"", ""interactive"", ""reasoning-moderate""]"
+"My c++ app keeps crashing in prod with NullPointerException. Here are the logs:
+```
+crash: unexpected token at line 42
+```
+What could be causing this?","[""debugging"", ""medium-output"", ""hard"", ""interactive"", ""reasoning-intensive""]"
+design a scalable url shortener using golang and airflow,"[""architecture"", ""long-output"", ""hard"", ""background"", ""reasoning-intensive"", ""architecture-heavy""]"

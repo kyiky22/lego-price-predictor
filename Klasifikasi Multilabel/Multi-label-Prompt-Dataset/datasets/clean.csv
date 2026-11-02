@@ -1,0 +1,785 @@
+prompt,labels
+Write a Java script to connect to a PostgreSQL database.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+Create an end-to-end MLOps deployment pipeline using Weights & Biases to reliably serve a distributed database.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Terraform and AWS ECS for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Write Pulumi code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Write a Go script to sort an array using merge sort.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+Why am I constantly getting a OOM Error when deploying my application in Scala?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+"Design a fraud detection system using Apache Spark and Hadoop. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Terraform and AWS ECS for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Design a vector search engine using React and Node.js. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Elasticsearch and Logstash for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Why am I constantly getting a NullPointerException when deploying my application in Docker?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a microservices architecture.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Design a distributed database using Elasticsearch and Logstash. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to evaluate an XGBoost classifier. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Terraform and AWS ECS for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to build a RAG pipeline with LangChain. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Design a real-time chat application using GCP Vertex AI. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using Kubeflow to reliably serve a e-commerce backend.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Write a Python script to reverse a string.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+Summarize the latest research papers and state-of-the-art approaches on how to implement a collaborative filtering algorithm. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a distributed database.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Refactor the following TypeScript code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a distributed database.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Help me fix this JavaScript error causing production downtime: Deadlock.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Refactor the following JavaScript code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Help me fix this Java error causing production downtime: Segmentation Fault.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+Write a Rust script to implement a LRU cache.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Design a microservices architecture using Apache Spark and Hadoop. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to implement a collaborative filtering algorithm. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Why am I constantly getting a Segmentation Fault when deploying my application in Kubernetes?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Summarize the latest research papers and state-of-the-art approaches on how to implement a collaborative filtering algorithm. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to train a ResNet50 model. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Write a TypeScript script to reverse a string.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+Create an end-to-end MLOps deployment pipeline using MLflow to reliably serve a fraud detection system.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using MLflow to reliably serve a microservices architecture.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Help me fix this Rust error causing production downtime: IndexOutOfBoundsException.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using GCP Vertex AI for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using Kafka and Airflow for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Design a fraud detection system using PostgreSQL and Redis. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Design a e-commerce backend using Elasticsearch and Logstash. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Design a distributed database using GCP Vertex AI. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Help me fix this Java error causing production downtime: ConnectionRefusedError.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to evaluate an XGBoost classifier. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to fine-tune a LLaMA-3 model using LoRA. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using React and Node.js for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Why am I constantly getting a OOM Error when deploying my application in Java?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Design a e-commerce backend using Kafka and Airflow. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to implement a collaborative filtering algorithm. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Design a vector search engine using PostgreSQL and Redis. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Kubernetes and Docker for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using Kubernetes and Docker for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Design a event-driven pipeline using Terraform and AWS ECS. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to fine-tune a LLaMA-3 model using LoRA. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Help me fix this Java error causing production downtime: CORS Error.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Design a recommendation engine using Kafka and Airflow. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Refactor the following Scala code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Design a real-time chat application using Kubernetes and Docker. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to build a RAG pipeline with LangChain. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Refactor the following Java code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Kubeflow to reliably serve a distributed database.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Terraform and AWS ECS for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Why am I constantly getting a TimeoutException when deploying my application in AWS?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Summarize the latest research papers and state-of-the-art approaches on how to train a ResNet50 model. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to implement a collaborative filtering algorithm. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Write Pulumi code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using Terraform and AWS ECS for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Write a Rust script to implement a LRU cache.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Analyze the performance implications, cost, and developer velocity of using Elasticsearch and Logstash for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Sagemaker to reliably serve a microservices architecture.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a recommendation engine.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using Weights & Biases to reliably serve a e-commerce backend.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to build a RAG pipeline with LangChain. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using GCP Vertex AI for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using MLflow to reliably serve a distributed database.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Help me fix this Go error causing production downtime: OOM Error.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Help me fix this Rust error causing production downtime: TimeoutException.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Design a fraud detection system using AWS Lambda and DynamoDB. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Design a recommendation engine using Terraform and AWS ECS. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to evaluate an XGBoost classifier. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Write Pulumi code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Write a Python script to scrape a dynamically loaded website.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Analyze the performance implications, cost, and developer velocity of using Kubernetes and Docker for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to evaluate an XGBoost classifier. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Refactor the following Python code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Design a microservices architecture using Apache Spark and Hadoop. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a recommendation engine.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Apache Spark and Hadoop for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Sagemaker to reliably serve a fraud detection system.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Design a event-driven pipeline using GCP Vertex AI. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Design a fraud detection system using React and Node.js. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Why am I constantly getting a NullPointerException when deploying my application in TypeScript?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Create an end-to-end MLOps deployment pipeline using Weights & Biases to reliably serve a vector search engine.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Write a Rust script to connect to a PostgreSQL database.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Analyze the performance implications, cost, and developer velocity of using React and Node.js for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to train a ResNet50 model. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Design a fraud detection system using Kubernetes and Docker. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Help me fix this Go error causing production downtime: CORS Error.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Design a fraud detection system using AWS Lambda and DynamoDB. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Refactor the following Java code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using AWS Lambda and DynamoDB for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Design a recommendation engine using Terraform and AWS ECS. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Refactor the following Java code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Help me fix this C++ error causing production downtime: NullPointerException.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Kubernetes and Docker for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Refactor the following Rust code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Help me fix this JavaScript error causing production downtime: CORS Error.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+Write a Rust script to implement a REST API.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+Write a Go script to implement a LRU cache.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to build a RAG pipeline with LangChain. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Help me fix this Scala error causing production downtime: Segmentation Fault.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to fine-tune a LLaMA-3 model using LoRA. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Design a microservices architecture using Kafka and Airflow. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Kubernetes and Docker for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to build a RAG pipeline with LangChain. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Kafka and Airflow for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a real-time chat application.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Kafka and Airflow for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to build a RAG pipeline with LangChain. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using GCP Vertex AI for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Write a JavaScript script to implement a REST API.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Write Pulumi code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Write a Go script to sort an array using merge sort.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+Create an end-to-end MLOps deployment pipeline using MLflow to reliably serve a distributed database.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Write Pulumi code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Design a event-driven pipeline using GCP Vertex AI. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using Weights & Biases to reliably serve a event-driven pipeline.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Write a Rust script to implement a REST API.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Why am I constantly getting a IndexOutOfBoundsException when deploying my application in Kubernetes?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Why am I constantly getting a Segmentation Fault when deploying my application in TypeScript?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Summarize the latest research papers and state-of-the-art approaches on how to build a RAG pipeline with LangChain. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Refactor the following C++ code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using Terraform and AWS ECS for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a recommendation engine.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Write a Python script to implement a LRU cache.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Refactor the following Go code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+Why am I constantly getting a OOM Error when deploying my application in Python?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+"Refactor the following Java code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using AWS Lambda and DynamoDB for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using Kafka and Airflow for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using MLflow to reliably serve a e-commerce backend.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Write a Rust script to implement a LRU cache.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+Write a Go script to implement a REST API.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a e-commerce backend.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to train a ResNet50 model. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Write a C++ script to sort an array using merge sort.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+Create an end-to-end MLOps deployment pipeline using Weights & Biases to reliably serve a microservices architecture.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Why am I constantly getting a OOM Error when deploying my application in JavaScript?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to evaluate an XGBoost classifier. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Write a Scala script to reverse a string.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Analyze the performance implications, cost, and developer velocity of using Apache Spark and Hadoop for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Why am I constantly getting a OOM Error when deploying my application in Go?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+"Design a vector search engine using React and Node.js. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Write a Scala script to sort an array using merge sort.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Analyze the performance implications, cost, and developer velocity of using Terraform and AWS ECS for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using AWS Lambda and DynamoDB for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using React and Node.js for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using AWS Lambda and DynamoDB for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Why am I constantly getting a NullPointerException when deploying my application in JavaScript?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Why am I constantly getting a ConnectionRefusedError when deploying my application in Go?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Create an end-to-end MLOps deployment pipeline using Sagemaker to reliably serve a e-commerce backend.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Kubeflow to reliably serve a vector search engine.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Write Pulumi code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Write Pulumi code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Write a Scala script to write a concurrent web scraper.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Analyze the performance implications, cost, and developer velocity of using Kafka and Airflow for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using PostgreSQL and Redis for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Design a microservices architecture using Apache Spark and Hadoop. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Kubernetes and Docker for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Kubeflow to reliably serve a microservices architecture.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Help me fix this Kubernetes error causing production downtime: Deadlock.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+Write a Python script to connect to a PostgreSQL database.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Analyze the performance implications, cost, and developer velocity of using PostgreSQL and Redis for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using React and Node.js for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Refactor the following C++ code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Sagemaker to reliably serve a event-driven pipeline.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Refactor the following JavaScript code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Refactor the following JavaScript code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Help me fix this Go error causing production downtime: IndexOutOfBoundsException.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a fraud detection system.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Help me fix this JavaScript error causing production downtime: ConnectionRefusedError.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Why am I constantly getting a ConnectionRefusedError when deploying my application in Go?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Summarize the latest research papers and state-of-the-art approaches on how to build a RAG pipeline with LangChain. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Refactor the following Rust code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Design a recommendation engine using Kafka and Airflow. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Refactor the following Go code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Weights & Biases to reliably serve a e-commerce backend.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using PostgreSQL and Redis for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Kubeflow to reliably serve a event-driven pipeline.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Write a Rust script to implement a LRU cache.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+Write a C++ script to scrape a dynamically loaded website.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Analyze the performance implications, cost, and developer velocity of using AWS Lambda and DynamoDB for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using Kafka and Airflow for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a e-commerce backend.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Write a JavaScript script to sort an array using merge sort.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Analyze the performance implications, cost, and developer velocity of using GCP Vertex AI for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Sagemaker to reliably serve a real-time chat application.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Refactor the following Go code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Weights & Biases to reliably serve a real-time chat application.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using Weights & Biases to reliably serve a event-driven pipeline.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Kafka and Airflow for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to implement a collaborative filtering algorithm. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Why am I constantly getting a TimeoutException when deploying my application in C++?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Why am I constantly getting a NullPointerException when deploying my application in Java?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Summarize the latest research papers and state-of-the-art approaches on how to train a ResNet50 model. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Design a distributed database using Kubernetes and Docker. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Refactor the following Python code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Design a recommendation engine using Kafka and Airflow. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a vector search engine.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Elasticsearch and Logstash for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Weights & Biases to reliably serve a recommendation engine.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Write a C++ script to implement a LRU cache.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Help me fix this TypeScript error causing production downtime: TimeoutException.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+Why am I constantly getting a ConnectionRefusedError when deploying my application in Go?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+"Help me fix this TypeScript error causing production downtime: TimeoutException.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using Sagemaker to reliably serve a recommendation engine.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Weights & Biases to reliably serve a real-time chat application.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using GCP Vertex AI for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to train a ResNet50 model. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using Kubeflow to reliably serve a e-commerce backend.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using AWS Lambda and DynamoDB for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Refactor the following Scala code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Sagemaker to reliably serve a fraud detection system.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Write a Scala script to scrape a dynamically loaded website.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Help me fix this AWS error causing production downtime: TimeoutException.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Refactor the following Go code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+Write a JavaScript script to scrape a dynamically loaded website.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Design a e-commerce backend using Apache Spark and Hadoop. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using Kubeflow to reliably serve a e-commerce backend.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Help me fix this Docker error causing production downtime: Segmentation Fault.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Refactor the following Rust code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to evaluate an XGBoost classifier. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Why am I constantly getting a NullPointerException when deploying my application in Kubernetes?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+"Analyze the performance implications, cost, and developer velocity of using GCP Vertex AI for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using Apache Spark and Hadoop for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to build a RAG pipeline with LangChain. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Refactor the following Python code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using Terraform and AWS ECS for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Design a real-time chat application using PostgreSQL and Redis. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using Kubeflow to reliably serve a vector search engine.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Design a event-driven pipeline using PostgreSQL and Redis. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Why am I constantly getting a TimeoutException when deploying my application in Scala?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+"Analyze the performance implications, cost, and developer velocity of using Kafka and Airflow for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a recommendation engine.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to train a ResNet50 model. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Design a real-time chat application using Apache Spark and Hadoop. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Write Pulumi code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using React and Node.js for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Design a vector search engine using PostgreSQL and Redis. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a recommendation engine.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using AWS Lambda and DynamoDB for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using GCP Vertex AI for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to fine-tune a LLaMA-3 model using LoRA. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using GCP Vertex AI for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using AWS Lambda and DynamoDB for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using GCP Vertex AI for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Weights & Biases to reliably serve a microservices architecture.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Write a JavaScript script to implement a REST API.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+Why am I constantly getting a OOM Error when deploying my application in Docker?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Summarize the latest research papers and state-of-the-art approaches on how to build a RAG pipeline with LangChain. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Refactor the following C++ code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to train a ResNet50 model. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Why am I constantly getting a Deadlock when deploying my application in JavaScript?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Summarize the latest research papers and state-of-the-art approaches on how to fine-tune a LLaMA-3 model using LoRA. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Help me fix this Python error causing production downtime: CORS Error.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Help me fix this Docker error causing production downtime: Segmentation Fault.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Write Pulumi code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to fine-tune a LLaMA-3 model using LoRA. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Design a fraud detection system using Apache Spark and Hadoop. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to build a RAG pipeline with LangChain. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Design a microservices architecture using Elasticsearch and Logstash. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using Apache Spark and Hadoop for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using PostgreSQL and Redis for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Write a TypeScript script to connect to a PostgreSQL database.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a fraud detection system.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Design a distributed database using GCP Vertex AI. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using MLflow to reliably serve a distributed database.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to build a RAG pipeline with LangChain. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Refactor the following JavaScript code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+Why am I constantly getting a CORS Error when deploying my application in AWS?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Why am I constantly getting a Segmentation Fault when deploying my application in Go?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Summarize the latest research papers and state-of-the-art approaches on how to implement a collaborative filtering algorithm. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Apache Spark and Hadoop for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Help me fix this Scala error causing production downtime: Segmentation Fault.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Kubernetes and Docker for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Write a JavaScript script to implement a LRU cache.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Analyze the performance implications, cost, and developer velocity of using Terraform and AWS ECS for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Refactor the following Python code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Refactor the following Rust code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Design a vector search engine using AWS Lambda and DynamoDB. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to evaluate an XGBoost classifier. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Write a Rust script to scrape a dynamically loaded website.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Refactor the following Scala code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Design a distributed database using Apache Spark and Hadoop. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Help me fix this Docker error causing production downtime: OOM Error.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Design a recommendation engine using Kafka and Airflow. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using React and Node.js for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Why am I constantly getting a ConnectionRefusedError when deploying my application in Kubernetes?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Write a Java script to scrape a dynamically loaded website.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Refactor the following Java code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Write Pulumi code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Design a microservices architecture using Kafka and Airflow. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Write a Go script to sort an array using merge sort.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Write Pulumi code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Design a e-commerce backend using GCP Vertex AI. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using MLflow to reliably serve a microservices architecture.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using AWS Lambda and DynamoDB for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a microservices architecture.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Why am I constantly getting a Deadlock when deploying my application in JavaScript?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Why am I constantly getting a CORS Error when deploying my application in Go?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Summarize the latest research papers and state-of-the-art approaches on how to train a ResNet50 model. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Help me fix this Kubernetes error causing production downtime: Segmentation Fault.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to train a ResNet50 model. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using Kubeflow to reliably serve a recommendation engine.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Elasticsearch and Logstash for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using AWS Lambda and DynamoDB for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Design a event-driven pipeline using React and Node.js. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Why am I constantly getting a ConnectionRefusedError when deploying my application in JavaScript?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Why am I constantly getting a Segmentation Fault when deploying my application in TypeScript?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+"Write Pulumi code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Write Pulumi code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Refactor the following Rust code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Help me fix this Kubernetes error causing production downtime: Deadlock.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Design a event-driven pipeline using Elasticsearch and Logstash. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to evaluate an XGBoost classifier. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Design a recommendation engine using Kafka and Airflow. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Design a e-commerce backend using Kubernetes and Docker. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to implement a collaborative filtering algorithm. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to implement a collaborative filtering algorithm. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Help me fix this Docker error causing production downtime: Segmentation Fault.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to evaluate an XGBoost classifier. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Refactor the following Scala code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Help me fix this C++ error causing production downtime: OOM Error.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Help me fix this Java error causing production downtime: ConnectionRefusedError.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Help me fix this Go error causing production downtime: Deadlock.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to implement a collaborative filtering algorithm. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a microservices architecture.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Design a recommendation engine using GCP Vertex AI. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to train a ResNet50 model. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to implement a collaborative filtering algorithm. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Why am I constantly getting a OOM Error when deploying my application in Docker?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+"Help me fix this Java error causing production downtime: CORS Error.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to fine-tune a LLaMA-3 model using LoRA. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Write a Scala script to implement a LRU cache.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Help me fix this Scala error causing production downtime: IndexOutOfBoundsException.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a e-commerce backend.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using Weights & Biases to reliably serve a real-time chat application.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Refactor the following Rust code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Help me fix this Rust error causing production downtime: Deadlock.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Design a recommendation engine using Kubernetes and Docker. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Design a vector search engine using Terraform and AWS ECS. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Kafka and Airflow for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Design a real-time chat application using Elasticsearch and Logstash. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using PostgreSQL and Redis for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using Kubernetes and Docker for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to train a ResNet50 model. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to train a ResNet50 model. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to build a RAG pipeline with LangChain. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Terraform and AWS ECS for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using Kafka and Airflow for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Design a vector search engine using React and Node.js. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Write a Python script to sort an array using merge sort.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+Create an end-to-end MLOps deployment pipeline using MLflow to reliably serve a event-driven pipeline.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Write a Go script to connect to a PostgreSQL database.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Help me fix this Rust error causing production downtime: CORS Error.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to fine-tune a LLaMA-3 model using LoRA. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Help me fix this Kubernetes error causing production downtime: NullPointerException.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using Kafka and Airflow for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Write a TypeScript script to scrape a dynamically loaded website.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Design a e-commerce backend using Apache Spark and Hadoop. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to evaluate an XGBoost classifier. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Design a e-commerce backend using GCP Vertex AI. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using GCP Vertex AI for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Why am I constantly getting a Deadlock when deploying my application in C++?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Create an end-to-end MLOps deployment pipeline using Kubeflow to reliably serve a real-time chat application.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using React and Node.js for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Analyze the performance implications, cost, and developer velocity of using GCP Vertex AI for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Weights & Biases to reliably serve a recommendation engine.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to train a ResNet50 model. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to fine-tune a LLaMA-3 model using LoRA. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Write a Rust script to connect to a PostgreSQL database.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a vector search engine.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using Weights & Biases to reliably serve a fraud detection system.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Design a fraud detection system using AWS Lambda and DynamoDB. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using GCP Vertex AI for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Design a recommendation engine using Terraform and AWS ECS. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Help me fix this JavaScript error causing production downtime: OOM Error.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+Create an end-to-end MLOps deployment pipeline using MLflow to reliably serve a e-commerce backend.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Help me fix this Python error causing production downtime: OOM Error.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Design a vector search engine using GCP Vertex AI. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to train a ResNet50 model. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using React and Node.js for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to build a RAG pipeline with LangChain. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to evaluate an XGBoost classifier. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+Why am I constantly getting a OOM Error when deploying my application in JavaScript?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+"Analyze the performance implications, cost, and developer velocity of using PostgreSQL and Redis for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Write a Go script to scrape a dynamically loaded website.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Analyze the performance implications, cost, and developer velocity of using Kubernetes and Docker for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Summarize the latest research papers and state-of-the-art approaches on how to train a ResNet50 model. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Refactor the following Python code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Sagemaker to reliably serve a vector search engine.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to implement a collaborative filtering algorithm. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Design a recommendation engine using PostgreSQL and Redis. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using React and Node.js for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Airflow to reliably serve a vector search engine.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Why am I constantly getting a CORS Error when deploying my application in Docker?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Design a fraud detection system using Terraform and AWS ECS. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Design a vector search engine using Apache Spark and Hadoop. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Write a Scala script to implement a LRU cache.,"[""coding"", ""realtime"", ""reasoning-light"", ""short-output"", ""easy"", ""cheap""]"
+"Help me fix this Rust error causing production downtime: ConnectionRefusedError.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using PostgreSQL and Redis for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+"Refactor the following C++ code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Kubeflow to reliably serve a event-driven pipeline.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Write Terraform code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Why am I constantly getting a Segmentation Fault when deploying my application in Rust?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+Summarize the latest research papers and state-of-the-art approaches on how to implement a collaborative filtering algorithm. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Design a distributed database using Kubernetes and Docker. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Refactor the following JavaScript code to make it more efficient and thread-safe:
+```python
+def do_something():
+    pass
+```","[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""coding"", ""moderate""]"
+"Design a fraud detection system using Kafka and Airflow. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Help me fix this Go error causing production downtime: OOM Error.
+```
+Traceback (most recent call last):
+  File ""main.py"", line 1
+```","[""premium"", ""interactive"", ""medium-output"", ""hard"", ""debugging"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to fine-tune a LLaMA-3 model using LoRA. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Write CloudFormation code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+Why am I constantly getting a TimeoutException when deploying my application in Rust?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+"Analyze the performance implications, cost, and developer velocity of using Elasticsearch and Logstash for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Why am I constantly getting a OOM Error when deploying my application in C++?,"[""interactive"", ""reasoning-moderate"", ""balanced"", ""medium-output"", ""moderate"", ""debugging""]"
+"Write Pulumi code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Design a real-time chat application using Terraform and AWS ECS. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using GCP Vertex AI for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using MLflow to reliably serve a vector search engine.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to evaluate an XGBoost classifier. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
+"Design a vector search engine using Kubernetes and Docker. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Design a real-time chat application using Terraform and AWS ECS. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Analyze the performance implications, cost, and developer velocity of using Kafka and Airflow for high-throughput enterprise systems.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""analysis"", ""medium-output"", ""moderate""]"
+Create an end-to-end MLOps deployment pipeline using Sagemaker to reliably serve a e-commerce backend.,"[""premium"", ""background"", ""long-output"", ""mlops"", ""hard"", ""reasoning-intensive""]"
+"Write Ansible code to provision a secure AWS VPC with private subnets, a NAT gateway, and restrictive security groups.","[""interactive"", ""reasoning-moderate"", ""balanced"", ""infrastructure"", ""medium-output"", ""moderate""]"
+"Design a event-driven pipeline using React and Node.js. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+"Design a event-driven pipeline using Terraform and AWS ECS. Please explain the trade-offs, scalability considerations, and potential failure points.","[""premium"", ""architecture"", ""background"", ""long-output"", ""hard"", ""architecture-heavy"", ""reasoning-intensive""]"
+Summarize the latest research papers and state-of-the-art approaches on how to train a ResNet50 model. Include citations.,"[""premium"", ""background"", ""long-output"", ""research"", ""hard"", ""reasoning-intensive""]"
