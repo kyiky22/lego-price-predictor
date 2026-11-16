@@ -67,6 +67,6 @@ Pima Indians Diabetes Database, NIDDK. Cantumkan tempat Anda mengunduh datasetny
 
 Kode dalam repositori ini dilisensikan di bawah [Apache License 2.0](LICENSE).
 
-Copyright [tahun] [Nama Anda]
+Copyright [2026] [Ahmad Rizki Paisal]
 
 Dataset memiliki sumber dan ketentuan tersendiri, di luar lisensi kode ini.
